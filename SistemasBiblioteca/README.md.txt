@@ -399,13 +399,3 @@ Microsoft. (2026). *ADO.NET Arquitectura y conexión a SQL Server*. Microsoft Le
 
 ---
 
-## ANEXOS
-
-**Anexo A. Repositorio GitHub**
-**Repositorio:** [Coloca aquí el link a tu repositorio de GitHub]
-
-**Anexo B. Script de base de datos**
-**Archivo:** `AcaBiblioteca_Script.sql`
-
-**Anexo C. Evidencia de Git y GitHub**
-(Adjuntar capturas de los commits y el repositorio online).

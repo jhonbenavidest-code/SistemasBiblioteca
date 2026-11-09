@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|c:\\users\\aleja\\desktop\\aca programacion avanzada\\sistemabiblioteca\\sistemasbiblioteca\\sistemasbiblioteca\\properties\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|solutionrelative:sistemasbiblioteca\\properties\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|c:\\users\\aleja\\desktop\\aca programacion avanzada\\sistemabiblioteca\\sistemasbiblioteca\\sistemasbiblioteca\\readme.md.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|solutionrelative:sistemasbiblioteca\\readme.md.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Descargas\\documentaci_n_del_proyecto (1).md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
@@ -66,13 +66,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\Properties\\README.md",
-              "RelativeDocumentMoniker": "SistemasBiblioteca\\Properties\\README.md",
-              "ToolTip": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\Properties\\README.md",
-              "RelativeToolTip": "SistemasBiblioteca\\Properties\\README.md",
-              "ViewState": "AgIAAHIBAAAAAAAAAAAAAIYBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "Title": "README.md.txt",
+              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\README.md.txt",
+              "RelativeDocumentMoniker": "SistemasBiblioteca\\README.md.txt",
+              "ToolTip": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\README.md.txt",
+              "RelativeToolTip": "SistemasBiblioteca\\README.md.txt",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAAAJEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-11-09T00:47:34.719Z",
               "EditorCaption": ""
             },

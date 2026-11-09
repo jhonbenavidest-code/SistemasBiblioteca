@@ -1,0 +1,16 @@
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\bin\Debug\SistemasBiblioteca.exe.config
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\bin\Debug\SistemasBiblioteca.exe
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\bin\Debug\SistemasBiblioteca.pdb
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.csproj.AssemblyReference.cache
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.csproj.GenerateResource.cache
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.exe
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.pdb
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.CapaPresentacion.FormUsuarios.resources
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.CapaPresentacion.FormAutores.resources
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.CapaPresentacion.FormEditoriales.resources
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.CapaPresentacion.FormLibros.resources
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.CapaPresentacion.FormMenuPrincipal.resources
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.CapaPresentacion.FormPrestamos.resources
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.CapaPresentacion.FormReportes.resources
+C:\Users\aleja\Desktop\ACA PROGRAMACION AVANZADA\SistemaBiblioteca\SistemasBiblioteca\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.Properties.Markdown.ACA.resources

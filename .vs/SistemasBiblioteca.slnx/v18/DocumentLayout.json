@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|c:\\users\\aleja\\desktop\\aca programacion avanzada\\sistemabiblioteca\\sistemasbiblioteca\\sistemasbiblioteca\\properties\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|solutionrelative:sistemasbiblioteca\\properties\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Descargas\\documentaci_n_del_proyecto (1).md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|c:\\users\\aleja\\desktop\\aca programacion avanzada\\sistemabiblioteca\\sistemasbiblioteca\\sistemasbiblioteca\\capadatos\\cd_libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|solutionrelative:sistemasbiblioteca\\capadatos\\cd_libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|c:\\users\\aleja\\desktop\\aca programacion avanzada\\sistemabiblioteca\\sistemasbiblioteca\\sistemasbiblioteca\\capapresentacion\\formprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|solutionrelative:sistemasbiblioteca\\capapresentacion\\formprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|c:\\users\\aleja\\desktop\\aca programacion avanzada\\sistemabiblioteca\\sistemasbiblioteca\\sistemasbiblioteca\\capapresentacion\\formprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|solutionrelative:sistemasbiblioteca\\capapresentacion\\formprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|c:\\users\\aleja\\desktop\\aca programacion avanzada\\sistemabiblioteca\\sistemasbiblioteca\\sistemasbiblioteca\\capapresentacion\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|solutionrelative:sistemasbiblioteca\\capapresentacion\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|c:\\users\\aleja\\desktop\\aca programacion avanzada\\sistemabiblioteca\\sistemasbiblioteca\\sistemasbiblioteca\\capapresentacion\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|solutionrelative:sistemasbiblioteca\\capapresentacion\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|c:\\users\\aleja\\desktop\\aca programacion avanzada\\sistemabiblioteca\\sistemasbiblioteca\\sistemasbiblioteca\\capapresentacion\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|solutionrelative:sistemasbiblioteca\\capapresentacion\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|c:\\users\\aleja\\desktop\\aca programacion avanzada\\sistemabiblioteca\\sistemasbiblioteca\\sistemasbiblioteca\\capapresentacion\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|solutionrelative:sistemasbiblioteca\\capapresentacion\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|c:\\users\\aleja\\desktop\\aca programacion avanzada\\sistemabiblioteca\\sistemasbiblioteca\\sistemasbiblioteca\\capapresentacion\\formusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|solutionrelative:sistemasbiblioteca\\capapresentacion\\formusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|c:\\users\\aleja\\desktop\\aca programacion avanzada\\sistemabiblioteca\\sistemasbiblioteca\\sistemasbiblioteca\\capapresentacion\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|solutionrelative:sistemasbiblioteca\\capapresentacion\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|c:\\users\\aleja\\desktop\\aca programacion avanzada\\sistemabiblioteca\\sistemasbiblioteca\\sistemasbiblioteca\\capapresentacion\\formeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|solutionrelative:sistemasbiblioteca\\capapresentacion\\formeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\sistemasbiblioteca\\capapresentacion\\formautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDFD452E-22F4-440F-9E08-5C96E4BE7AD7}|SistemasBiblioteca\\SistemasBiblioteca.csproj|solutionrelative:sistemasbiblioteca\\capapresentacion\\formautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\Properties\\README.md",
+              "RelativeDocumentMoniker": "SistemasBiblioteca\\Properties\\README.md",
+              "ToolTip": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\Properties\\README.md",
+              "RelativeToolTip": "SistemasBiblioteca\\Properties\\README.md",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAAAJoBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-09T00:47:34.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "documentaci_n_del_proyecto (1).md",
+              "DocumentMoniker": "E:\\Descargas\\documentaci_n_del_proyecto (1).md",
+              "ToolTip": "E:\\Descargas\\documentaci_n_del_proyecto (1).md",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAAAJoBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-09T00:17:38.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPrestamos.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormPrestamos.cs",
+              "RelativeDocumentMoniker": "SistemasBiblioteca\\CapaPresentacion\\FormPrestamos.cs",
+              "ToolTip": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormPrestamos.cs",
+              "RelativeToolTip": "SistemasBiblioteca\\CapaPresentacion\\FormPrestamos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T23:55:13.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPrestamos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormPrestamos.cs",
+              "RelativeDocumentMoniker": "SistemasBiblioteca\\CapaPresentacion\\FormPrestamos.cs",
+              "ToolTip": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormPrestamos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemasBiblioteca\\CapaPresentacion\\FormPrestamos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T22:51:14.831Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormLibros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormLibros.cs",
+              "RelativeDocumentMoniker": "SistemasBiblioteca\\CapaPresentacion\\FormLibros.cs",
+              "ToolTip": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormLibros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemasBiblioteca\\CapaPresentacion\\FormLibros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T22:41:31.347Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "SistemasBiblioteca\\CapaPresentacion\\FormMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemasBiblioteca\\CapaPresentacion\\FormMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T23:05:22.904Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CD_Libros.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaDatos\\CD_Libros.cs",
+              "RelativeDocumentMoniker": "SistemasBiblioteca\\CapaDatos\\CD_Libros.cs",
+              "ToolTip": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaDatos\\CD_Libros.cs",
+              "RelativeToolTip": "SistemasBiblioteca\\CapaDatos\\CD_Libros.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwE0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T23:08:40.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "SistemasBiblioteca\\CapaPresentacion\\FormMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormMenuPrincipal.cs",
+              "RelativeToolTip": "SistemasBiblioteca\\CapaPresentacion\\FormMenuPrincipal.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAkwD8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T23:37:19.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormReportes.cs",
+              "RelativeDocumentMoniker": "SistemasBiblioteca\\CapaPresentacion\\FormReportes.cs",
+              "ToolTip": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemasBiblioteca\\CapaPresentacion\\FormReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T22:56:01.866Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormUsuarios.cs",
+              "RelativeDocumentMoniker": "SistemasBiblioteca\\CapaPresentacion\\FormUsuarios.cs",
+              "ToolTip": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemasBiblioteca\\CapaPresentacion\\FormUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T22:58:29.463Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormLibros.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormLibros.cs",
+              "RelativeDocumentMoniker": "SistemasBiblioteca\\CapaPresentacion\\FormLibros.cs",
+              "ToolTip": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormLibros.cs",
+              "RelativeToolTip": "SistemasBiblioteca\\CapaPresentacion\\FormLibros.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAawEIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T23:15:32.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormEditoriales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormEditoriales.cs",
+              "RelativeDocumentMoniker": "SistemasBiblioteca\\CapaPresentacion\\FormEditoriales.cs",
+              "ToolTip": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormEditoriales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemasBiblioteca\\CapaPresentacion\\FormEditoriales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T22:43:14.205Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormAutores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormAutores.cs",
+              "RelativeDocumentMoniker": "SistemasBiblioteca\\CapaPresentacion\\FormAutores.cs",
+              "ToolTip": "C:\\Users\\aleja\\Desktop\\ACA PROGRAMACION AVANZADA\\SistemaBiblioteca\\SistemasBiblioteca\\SistemasBiblioteca\\CapaPresentacion\\FormAutores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemasBiblioteca\\CapaPresentacion\\FormAutores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T15:53:16.608Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

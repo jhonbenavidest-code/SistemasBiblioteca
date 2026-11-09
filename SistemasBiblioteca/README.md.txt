@@ -174,7 +174,7 @@ Los casos de uso describen la interacción principal del bibliotecario con el si
 
 ### 5.2 Diagrama de casos de uso
 ![Diagrama de casos de uso](imagenes/casos_uso.png) 
-*(Nota: Asegúrate de tener una imagen con este nombre en tu carpeta "imagenes")*
+
 
 ### 5.3 Descripción de casos de uso
 
@@ -398,4 +398,15 @@ Microsoft. (2026). *Documentación de C# y .NET*. Microsoft Learn. Recuperado de
 Microsoft. (2026). *ADO.NET Arquitectura y conexión a SQL Server*. Microsoft Learn.
 
 ---
+
+## ANEXOS
+
+**Anexo A. Repositorio GitHub**
+**Repositorio:** https://github.com/jhonbenavidest-code/SistemasBiblioteca
+
+**Anexo B. Script de base de datos**
+**Archivo:** `Base de datos ACA.sql
+
+**Anexo C. Evidencia de Git y GitHub**
+(imagenes/evidencia_github.png)
 
